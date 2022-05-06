@@ -21,4 +21,5 @@ There are weights-file for different cfg-files (trained for our dataset):
 - cropNet_1
 - cropNet_3
 
-# 
+# mAP and processing times
+![mAP_and_processing_times](https://user-images.githubusercontent.com/11092747/167144991-46bd8e77-3915-4d02-bd89-a40e9465a1ba.png)
