@@ -16,7 +16,7 @@ The dataset used in this work with the corresponding ground truth data, as well 
 
 Others: https://l.ufpel.edu.br/LTSD
 
-# Pre-trained model
+# Pre-trained models
 There are weights-file for different cfg-files (trained for our dataset):
 - cropNet_1
 - cropNet_3
