@@ -5,6 +5,7 @@ A novel approach for traffic sign recognition (TSR) using off-the-shelf onboard 
 
 # Requirements
 The system was implemented and tested in C++ (GCC 5.5.0 compiler), using the Open source Computer Vision library (shortly OpenCV) Version 3.1.0.
+[Darknet YOLO v4](https://github.com/AlexeyAB/darknet) repository is also necessary. Our code uses the shared lib `darknet.so`. So dont forget to set `LIBSO=1`.
 
 The dataset used in this work with the corresponding ground truth data, as well as video sequences showing the results of our method, are publicly available at http:// 
 
@@ -13,3 +14,10 @@ The dataset used in this work with the corresponding ground truth data, as well 
 
 [<img src="https://user-images.githubusercontent.com/11092747/167136861-a6a4e94f-df88-4180-b009-8a137969db18.png" width="800">](https://youtu.be/Z2Htxab2mFw)
 Others: https://l.ufpel.edu.br/LTSD
+
+# Pre-trained model
+There are weights-file for different cfg-files (trained for our dataset):
+- cropNet_1
+- cropNet_3
+
+# 
