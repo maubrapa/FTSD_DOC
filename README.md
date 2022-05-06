@@ -9,6 +9,5 @@ The dataset used in this work with the corresponding ground truth data, as well 
 # Youtube video of results
 [//]: #![snap_img_5169_1920x1080](https://user-images.githubusercontent.com/11092747/167136861-a6a4e94f-df88-4180-b009-8a137969db18.png)(https://youtu.be/Z2Htxab2mFw)
 
-[<img src="https://user-images.githubusercontent.com/11092747/167136861-a6a4e94f-df88-4180-b009-8a137969db18.png" width="800">](https://youtu.be/Z2Htxab2mFw){:target="_blank"}
-
+[<img src="https://user-images.githubusercontent.com/11092747/167136861-a6a4e94f-df88-4180-b009-8a137969db18.png" width="800">](https://youtu.be/Z2Htxab2mFw)
 Others: https://l.ufpel.edu.br/LTSD
