@@ -15,10 +15,11 @@ The system was implemented and tested in C++ (GCC 5.5.0 compiler), using the Ope
 Others: https://l.ufpel.edu.br/LTSD
 
 ### Source code
-Coming soon
+`Coming soon`
 
 ### Dataset
-The dataset used in this work with the corresponding ground truth data, as well as video sequences showing the results of our method, are publicly available at coming soon
+[//]: #The dataset used in this work with the corresponding ground truth data, as well as video sequences showing the results of our method, are publicly available at...
+`Coming soon`
 
 ### Pre-trained models
 There are weights-file for different cfg-files (trained for our dataset):
