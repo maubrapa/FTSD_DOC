@@ -18,7 +18,7 @@ Others: https://l.ufpel.edu.br/LTSD
 `Coming soon`
 
 ### Dataset
-[//]: #The dataset used in this work with the corresponding ground truth data, as well as video sequences showing the results of our method, are publicly available at...
+The dataset used in this work with the corresponding ground truth data, as well as video sequences showing the results of our method, are publicly available at...
 `Coming soon`
 
 ### Pre-trained models
