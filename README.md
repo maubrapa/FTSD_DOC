@@ -1,7 +1,7 @@
 ## Lightweight Traffic Sign Detection using Detachable Onboard Cameras
 M. B. de Paula, C. R. Jung
 
-A novel approach for traffic sign recognition (TSR) using off-the-shelf onboard vehicular cameras. Assuming that the camera intrinsic parameters are obtained offline, an online calibration scheme is used to estimate the extrinsic camera parameters, and Regions of Interest (ROIs) are created in the image domain based on the expected geometry and location of the traffic signs. Within these ROIs, the scale variation of the sign and background complexity are limited, allowing the development of lightweight Convolutional Neural Networks (CNNs) for TSR. Our experimental results for Brazilian traffic signs indicate that the proposed approach presents better accuracy than state-of-the-art methods at faster running times.
+A novel approach for traffic sign detection (TSD) using off-the-shelf onboard vehicular cameras. Assuming that the camera intrinsic parameters are obtained offline, an online calibration scheme is used to estimate the extrinsic camera parameters, and Regions of Interest (ROIs) are created in the image domain based on the expected geometry and location of the traffic signs. Within these ROIs, the scale variation of the sign and background complexity are limited, allowing the development of lightweight Convolutional Neural Networks (CNNs) for TSD. Our experimental results for Brazilian traffic signs indicate that the proposed approach presents better accuracy than state-of-the-art methods at faster running times.
 
 ### Requirements
 The system was implemented and tested in C++ (GCC 5.5.0 compiler), using the Open source Computer Vision library (shortly [OpenCV](https://opencv.org)) Version 3.1.0.
