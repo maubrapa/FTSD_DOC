@@ -12,7 +12,7 @@ The system was implemented and tested in C++ (GCC 5.5.0 compiler), using the Ope
 
 [<img src="https://user-images.githubusercontent.com/11092747/167136861-a6a4e94f-df88-4180-b009-8a137969db18.png" width="800">](https://youtu.be/Z2Htxab2mFw)
 
-Others: https://l.ufpel.edu.br/LTSD
+Link: https://l.ufpel.edu.br/FastTrafficSignDetection
 
 ### Source code
 `Coming soon`
